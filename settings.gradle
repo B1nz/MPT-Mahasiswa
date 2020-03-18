@@ -1,0 +1,2 @@
+rootProject.name='MPT7'
+include ':app'
